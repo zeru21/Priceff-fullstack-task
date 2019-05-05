@@ -1,3 +1,9 @@
+## Priceff Fullstack developer task
+#### Frontend using React and Redux
+#### Backend using Express, under Server folder
+
+______________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
